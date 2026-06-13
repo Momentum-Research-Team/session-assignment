@@ -34,7 +34,7 @@ git checkout -b week1-hong
 
 > **※ 구글 코랩(Colab) 사용자를 위한 안내**
 > 많은 분들이 코랩으로 수업을 진행하시는 것으로 알고 있습니다. 코랩에서 직접 깃허브를 연동하는 것은 토큰 인증이나 세션 종료 등 번거로운 절차가 필요합니다. 
-> 따라서, **코랩 사용자는 작업이 끝난 후 `.ipynb` 파일을 다운로드하여 VSCode로 열어둔 본인 로컬 폴더에 넣은 뒤 위 순서대로 진행**하시면 됩니다.
+> 따라서, **코랩 사용자는 작업이 끝난 후 `.ipynb`나 `.py` 형태로 파일을 다운로드하여 VSCode로 열어둔 본인 로컬 폴더에 넣은 뒤 위 순서대로 진행**하시면 됩니다.
 
 4. 변경 사항 추가(Add) 및 커밋(Commit)
 ```bash
@@ -54,3 +54,9 @@ git push origin week1-hong
 6. Pull Request (PR) 생성
 - 푸시를 완료한 후, GitHub 레포지토리 웹사이트에 접속합니다.
 - 상단에 활성화된 `Compare & pull request` 버튼을 클릭하여 PR을 생성하면 제출이 완료됩니다.
+
+---
+
+## 🛠️ 참고 자료
+
+- [2025 최신 VS Code 설치 가이드](https://firefly7.tistory.com/entry/2025-%EC%B5%9C%EC%8B%A0-VS-Code-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
