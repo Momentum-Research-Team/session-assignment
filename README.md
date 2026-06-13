@@ -60,3 +60,5 @@ git push origin week1-hong
 ## 🛠️ 참고 자료
 
 - [2025 최신 VS Code 설치 가이드](https://firefly7.tistory.com/entry/2025-%EC%B5%9C%EC%8B%A0-VS-Code-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
+- [Git & GitHub 기초 사용법 가이드](https://jamong.tistory.com/4)
+- [구글 코랩(Colab) - 깃허브 연동 가이드](https://angidgidtn.tistory.com/entry/Colab-%EA%B5%AC%EA%B8%80-%EC%BD%94%EB%9E%A9-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99)
