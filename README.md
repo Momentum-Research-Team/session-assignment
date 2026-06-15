@@ -6,6 +6,8 @@
 
 [VS Code가 설치되어있다면 여기부터 보시면 됩니다!]  
 - [Git & GitHub 기초 사용법 가이드](https://jamong.tistory.com/4)
+
+[코랩에서도 깃허브 연동이 가능하나 아래 3. [중요] 과제 제출 가이드를 참고하셔서 VS Code에서 진행하는 것을 권장합니다!]  
 - [구글 코랩(Colab) - 깃허브 연동 가이드](https://angidgidtn.tistory.com/entry/Colab-%EA%B5%AC%EA%B8%80-%EC%BD%94%EB%9E%A9-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99)
 
 본 제출가이드는 Momentum n기 정규 & 방학세션의 주차별 과제 제출 시 참고하시면 됩니다.
