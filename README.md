@@ -6,9 +6,8 @@
 
 [VS Code가 설치되어있다면 여기부터 보시면 됩니다!]  
 
-- [GitHub 가입이 안되어있으시다면 아래 링크 참고해서 가입하시면 됩니다!]
-- https://jamong.tistory.com/4](https://velog.io/@zz4536/GitHub-%EC%99%95%EC%B4%88%EB%B3%B4-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1%EB%B6%80%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EC%83%9D%EC%84%B1%EA%B9%8C%EC%A7%80
-- [Git & GitHub 기초 사용법 가이드](https://jamong.tistory.com/4)
+- [GitHub 가입이 안되어있으시다면 아래 링크 참고해서 가입하시면 됩니다!](https://daco2020.tistory.com/900).]
+- [Git & GitHub 기초 사용법 가이드](https://jamong.tistory.com/4)]
 
 [코랩에서도 깃허브 연동이 가능하나 아래 3. [중요] 과제 제출 가이드를 참고하셔서 VS Code에서 진행하는 것을 권장합니다!]  
 - [구글 코랩(Colab) - 깃허브 연동 가이드](https://angidgidtn.tistory.com/entry/Colab-%EA%B5%AC%EA%B8%80-%EC%BD%94%EB%9E%A9-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99)
