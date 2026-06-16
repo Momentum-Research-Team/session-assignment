@@ -6,7 +6,7 @@
 
 [VS Code가 설치되어있다면 여기부터 보시면 됩니다!]  
 
-- [GitHub 가입이 안되어있으시다면 아래 링크 참고해서 가입하시면 됩니다!](https://daco2020.tistory.com/900).]
+- [GitHub 가입 가이드](https://daco2020.tistory.com/900).]
 - [Git & GitHub 기초 사용법 가이드](https://jamong.tistory.com/4)]
 
 [코랩에서도 깃허브 연동이 가능하나 아래 3. [중요] 과제 제출 가이드를 참고하셔서 VS Code에서 진행하는 것을 권장합니다!]  
