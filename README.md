@@ -64,43 +64,7 @@ git push origin week1-hong
 - [구글 코랩(Colab) - 깃허브 연동 가이드](https://angidgidtn.tistory.com/entry/Colab-%EA%B5%AC%EA%B8%80-%EC%BD%94%EB%9E%A9-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99)
 
 ---
-
-## ⚡ 빠른 제출 가이드 (명령어 모음)
-
-설명이 길어서 헷갈리시는 분들은 아래 명령어만 VS Code 터미널(상단 Terminal -> New Terminal)에서 순서대로 복사해서 실행하시면 됩니다. (예시: 본인 이름이 `홍길동`인 경우)
-
-```bash
-# 1. 저장소 클론 및 폴더 이동
-git clone https://github.com/Momentum-Research-Team/session-assignment.git
-cd session-assignment
-
-# 2. 본인 브랜치 생성 및 이동
-git checkout -b feature/honggildong-test
-
-# 3. 테스트 폴더로 이동하여 본인 폴더 생성
-cd "3기 방학세션/테스트(06-18)"
-mkdir 홍길동
-cd 홍길동
-
-# 4. 파일 생성 (직접 VS Code나 탐색기에서 '홍길동_테스트.ipynb' 파일을 생성하거나 드래그해서 넣으셔도 됩니다)
-# 터미널에서 빈 파일 생성 시:
-echo "" > 홍길동_테스트.ipynb
-
-# 5. 최상위 폴더로 다시 이동 후 변경사항 추가
-cd ../../../
-git add "3기 방학세션/테스트(06-18)/홍길동/홍길동_테스트.ipynb"
-
-# 6. 커밋
-git commit -m "test: 홍길동 테스트 과제 제출"
-
-# 7. 푸시
-git push origin feature/honggildong-test
-```
-
-**8. PR(Pull Request) 생성하기**
-- 푸시가 완료되면 [GitHub 레포지토리](https://github.com/Momentum-Research-Team/session-assignment)에 접속합니다.
-- 상단에 뜨는 **`Compare & pull request`** 초록색 버튼을 클릭하고 PR을 생성하면 제출 완료입니다!
-
+👉 **빠른 과제 제출 명령어만 보고 싶다면?** [⚡ 빠른 제출 가이드](빠른_제출_가이드.md)를 참고해 주세요!
 ---
 
 ## 📌 Git Commit Convention
