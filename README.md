@@ -192,7 +192,7 @@ git push origin feature/honggildong-test
 
 **8. PR(Pull Request) 생성하기**
 - 푸시가 완료되면 [GitHub 레포지토리](https://github.com/Momentum-Research-Team/session-assignment)에 접속합니다.
-- 상단에 뜨는 **`Compare & pull request`** 초록색 버튼을 클릭합니다.
+- **`Pull requests`** 탭에 들어가서 우측의 **`New pull request`** 초록색 버튼을 클릭합니다.
 - **[중요] PR 브랜치 매칭 설정**
   PR 생성 화면 상단에서 브랜치가 다음과 같이 매칭되어 있는지 반드시 확인하세요!
   👉 `base: main` `<-` `compare: feature/honggildong-test` (본인 브랜치)
