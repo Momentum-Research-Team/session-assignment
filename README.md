@@ -190,11 +190,16 @@ git commit -m "test: 홍길동 테스트 과제 제출"
 git push origin feature/honggildong-test
 ```
 
-**8. PR(Pull Request) 생성하기**
+**8. PR(Pull Request) 생성*
 - 푸시가 완료되면 [GitHub 레포지토리](https://github.com/Momentum-Research-Team/session-assignment)에 접속합니다.
 - **`Pull requests`** 탭에 들어가서 우측의 **`New pull request`** 초록색 버튼을 클릭합니다.
 - **[중요] PR 브랜치 매칭 설정**
   PR 생성 화면 상단에서 브랜치가 다음과 같이 매칭되어 있는지 반드시 확인하세요!
   👉 `base: main` `<-` `compare: feature/honggildong-test` (본인 브랜치)
-  이렇게 설정되어야 본인이 작업한 변경 사항이 제대로 뜨고 정상적으로 PR이 생성됩니다.
-- 확인 후 PR을 생성하면 제출 완료입니다!
+  이렇게 설정되어야 본인이 작업한 변경 사항이 제대로 뜨고 정상적으로 PR(Pull Requests)이 생성됩니다.
+- 확인 후 PR(Pull Requests)이 생성되면 초록색 버튼의 Merge를 누르시면 됩니다. (1주차부터는 Merge는 운영진에서 진행할 것인데 이번 테스트(06-18)은 Merge까지 진행해주시면 됩니다!)
+
+ 9. 제출 확인하기_테스트(06-18)
+    - 1. 3기 방학세션 폴더 -> 테스트(06-18) 안으로 들어간다.
+    - 2. 본인 이름 폴더가 생성된 것을 확인한다.
+    - 3. 본인 이름 폴더 안에 본인이름_테스트.ipynb나 본인이름_테스트.py 파일이 보이면 성공.
